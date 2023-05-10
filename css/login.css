@@ -1,0 +1,41 @@
+.login_section{
+  width: 100%;
+  display: grid;
+    margin:5rem auto;
+
+    align-items: center;
+    text-align: center;
+
+}
+.login_section p{
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+.login_section form{
+
+margin: 0 auto;
+padding: 2rem;
+border-radius: 10px;
+
+border:5px solid;
+}
+.login_section form .in1{
+  
+  padding: 0.5rem;
+
+}
+.login_section form .btn{
+  width: 100%;
+  border-radius: 5px;
+
+}
+.bot{
+  display: grid;
+  align-items: center;
+}
+.bot a{
+  text-decoration: none;
+  font-size:15px;
+  font-weight: 800;
+  margin:5px;
+}
